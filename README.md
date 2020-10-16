@@ -17,7 +17,7 @@ Le bot discord de la communauté Let's Dev pour créer des salons personnalisés
 
 ### Notes
 
-Si vous souhaitez contribuer au projet, n'hésitez pas à faire des PR, à proposer des Issues, etc...
-Aussi si vous souhaitez me payer un petit café ou je ne sais quoi d'autre: https://paypal.me/kizuruwu
+- Si vous souhaitez contribuer au projet, n'hésitez pas à faire des PR, à proposer des Issues, etc...
+- Aussi si vous souhaitez me payer un petit café ou je ne sais quoi d'autre: https://paypal.me/kizuruwu
 ça fais toujours plaisir de discuter avec vous d'ailleurs, n'hésitez pas à rejoindre mon serveur discord: https://discord.gg/hgWCw95
-ou bien rejoindre le serveur discord de Let's Dev: https://discord.gg/SuHmdBk
+- ou bien rejoindre le serveur discord de Let's Dev: https://discord.gg/SuHmdBk
